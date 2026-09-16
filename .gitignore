@@ -1,0 +1,30 @@
+# Данные не заливаются (тянутся с сервера курсов)
+*.csv
+*.xlsx
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Артефакты разработки
+.pytest_cache/
+*.egg-info/
+
+# Временные файлы
+*.log
+*.tmp
